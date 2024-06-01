@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it! 哈哈哈哈哈哈哈哈哈 原来路由不行！！" />
+      <HelloWorld msg="You did it! 路由可以的~！！！！" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
